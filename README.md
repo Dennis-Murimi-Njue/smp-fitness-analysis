@@ -130,5 +130,5 @@ python data_analysis_project.py
 ```
 .
 ├── data_analysis_project.py   # the full analysis script
-└── README.md     # this file
+└── README.md    
 ```
